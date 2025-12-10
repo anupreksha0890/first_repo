@@ -12,6 +12,7 @@
 	<artifactId>jenkin</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>jenkin</name>
+	<packaging>war</packaging>
 	<description>Demo project for Spring Boot</description>
 	<url/>
 	<licenses>
